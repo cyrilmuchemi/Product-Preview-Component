@@ -1,31 +1,44 @@
-# curriculum-databases-projects-template
+# Product Preview Component
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+> This is a simple product review component.
 
+## Prerequisites
 
-## Getting Started
-
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+- Basic to intermediate knowledge of HTML and CSS.
 
 
-## Authors
+## Built With
+
+- HTML
+- CSS
+
+## Live Demo
+
+[Live Demo Link] ())
+
+
+## Setup
+
+- If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+- [Download the ZIP from this location](https://github.com/cyrilmuchemi/Product-Review-Component), or run the   following git command to clone the files to your machine:
+git clone https://github.com/cyrilmuchemi/Product-Review-Component.git
+- Once the files are on your machine, open the Capstone-Project folder in Visual Studio Code.
+With the files open in Visual Studio Code, press the Go Live button at the bottom of the window to launch the files with Live Server.
+
+## Install 
+
+The following tools help make easier to work with sample code.
+
+- [git](https://git-scm.com/downloads):A tool for managing source code
+- [Visual Studio Code](https://code.visualstudio.com/):A source code editor
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): A simple web server utility for Visual Studio Code
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@cyrilmuchemi](https://github.com/cyrilmuchemi)
+- Twitter: [@cyrilmuchemi](https://twitter.com/cyrilmuchemi)
+- LinkedIn: [Cyril Muchemi](https://linkedin.com/in/cyril muchemi)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -33,15 +46,11 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
