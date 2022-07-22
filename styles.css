@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Koulen&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap');
+
+* {
+    background: rgb(240, 183, 183);
+    margin: 0;
+    padding: 0;
+}
+
+.product__frame {
+    display: flex;
+    margin-left: 400px;
+    margin-right: 400px;
+    background: #fff;
+    margin-top: 150px;
+    overflow: hidden;
+    width: 500px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+#product-image {
+    width: 230px;
+    height: 410px;
+}
+
+.product__frame-description {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    flex-direction: column;
+    background-color: #fff;
+}
+
+.product__frame-description h1 {
+    color: rgb(184, 175, 175);
+    background: #fff;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 5px;
+    font-size: 16px;
+}
+
+.product__frame-description h2 {
+    font-family: 'Crete Round', sans-serif;
+    margin-top: 13px;
+    width: 65%;
+    background: #fff;
+}
+
+.description-heading {
+    background: #fff;
+}
+
+.description-paragraph {
+    background: #fff;
+}
+
+.description-paragraph p {
+    background: #fff;
+    color: rgb(74, 71, 71);
+    font-size: 18px;
+    margin-top: 13px;
+    line-height: 22px;
+    font-family: 'Roboto', sans-serif;
+    width: 90%;
+}
+
+.price__frame {
+    display: flex;
+    margin-top: 13px;
+    text-align: center;
+    align-items: center;
+    background: #fff;
+    gap: 20px;
+}
+
+.price__frame-new h3 {
+    background: #fff;
+    font-family: 'Crete Round', sans-serif;
+    font-size: 33px;
+    color: rgb(18, 63, 18);
+}
+
+.price__frame-cancel h4 {
+    background: #fff;
+    text-decoration: line-through;
+    color: rgb(74, 71, 71);   
+}
+
+.product__frame-button {
+    margin-top: 15px;
+    background: #fff;
+    margin-left: 30px;
+}
+
+.product__frame-button button {
+    width: 170px;
+    height: 40px;
+    position: relative;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    background: rgb(18, 63, 18);
+    border-radius: 6px;
+    cursor: pointer;
+} 
+
+.product__frame-button button:hover {
+    background: rgb(45, 134, 45);
+}
+
+#shopping-cart {
+    position: absolute;
+    width: 23px;
+    margin-top: -6px;
+    margin-left: -30px;
+    background: none;
+}
