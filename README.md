@@ -2,6 +2,19 @@
 
 > This is a simple product review component.
 
+
+## Screenshots
+
+- **Desktop View**
+
+![Desktop](./screenshots/desktopCompo.png)
+
+- **Mobile View**
+
+![Mobile](./screenshots/mobileCompo.png)
+
+
+
 ## Prerequisites
 
 - Basic to intermediate knowledge of HTML and CSS.
@@ -9,12 +22,12 @@
 
 ## Built With
 
-- HTML
-- CSS
+- HTML 5
+- CSS 3
 
 ## Live Demo
 
-[Live Demo Link] ())
+[Live Demo Link] (https://cyrilmuchemi.github.io/Product-Preview-Component/)
 
 
 ## Setup
@@ -37,7 +50,7 @@ The following tools help make easier to work with sample code.
 
 - GitHub: [@cyrilmuchemi](https://github.com/cyrilmuchemi)
 - Twitter: [@cyrilmuchemi](https://twitter.com/cyrilmuchemi)
-- LinkedIn: [Cyril Muchemi](https://linkedin.com/in/cyril muchemi)
+- LinkedIn: [Cyril Muchemi](https://linkedin.com/in/cyrilmuchemi)
 
 
 ## 🤝 Contributing
